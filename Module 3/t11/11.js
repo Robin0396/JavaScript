@@ -143,6 +143,7 @@ function createArticle(articleData) {
   section.appendChild(article);
 }
 
+
 function openModal(imageSrc, altText) {
   const modal = document.getElementById('imageModal');
   const modalImage = document.getElementById('modalImage');
